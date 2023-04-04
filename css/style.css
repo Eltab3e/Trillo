@@ -333,7 +333,7 @@ body {
 .legal {
   font-size: 1.2rem;
   color: var(--color-grey-light-4);
-  text-align: center;
+  text-align: left;
   padding: 2.5rem;
 }
 @media only screen and (max-width: 56.25em) {
