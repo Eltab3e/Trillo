@@ -2,8 +2,8 @@
 <h3 align="center">Your all-in-one booking app.</h3>
 
 <h3 align="left">Screenshots:</h3>
-<img src="https://drive.google.com/uc?id=1b9z-a6bwAyDWStWtb6VogCAv_l2i0a4B " alt="image1" width="500">
-<img src="https://drive.google.com/uc?id=13oouV6MJeTA4pQiEaUQSmglUQ5B-axiW" alt="image2" width="500">
+<img src="https://drive.google.com/uc?id=1b9z-a6bwAyDWStWtb6VogCAv_l2i0a4B " alt="image1" width="800">
+<img src="https://drive.google.com/uc?id=13oouV6MJeTA4pQiEaUQSmglUQ5B-axiW" alt="image2" width="800">
 
 <h3 align="left">Languages and Tools:</h3>
 
