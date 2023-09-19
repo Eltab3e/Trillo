@@ -1,4 +1,4 @@
-<h1 align="center">Welcome 👋 This project is called Trillo.</h1>
+<h1 align="center">Hi there 👋 This project is called Trillo.</h1>
 <h3 align="center">Your all-in-one booking app.</h3>
 
 <h3 align="left">Screenshots:</h3>
@@ -6,7 +6,6 @@
 <img src="https://drive.google.com/uc?id=13oouV6MJeTA4pQiEaUQSmglUQ5B-axiW" alt="image2" width="900">
 
 <h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
